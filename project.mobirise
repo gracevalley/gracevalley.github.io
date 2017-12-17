@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gracevalley",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": ""
@@ -224,6 +224,38 @@
           ],
           "_name": "header5",
           "_anchor": "header5-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "grace valley public school, maravattom",
+              "placeId": "ChIJfVPgUZ-1pzsRv-gPuIb7BBU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Grace Valley Public School,<br>Maravattom, Wadirahma, Kadampuzha<br>Kerala 676503.<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">M</a>obile App</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">F</a>acebook Page</li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-c",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },

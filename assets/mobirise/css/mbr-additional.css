@@ -486,6 +486,9 @@ h6,
 #header5-7 .mbr-section-lead {
   color: #9c9a9a;
 }
+#contacts2-c P {
+  text-align: left;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
